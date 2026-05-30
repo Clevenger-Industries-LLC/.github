@@ -9,6 +9,7 @@ Clevenger Industries LLC operates [Taktum](https://taktum.io), a manufacturing m
 Useful links:
 
 - [Official Taktum website](https://taktum.io)
+- [Official Taktum public profile](https://github.com/Clevenger-Industries-LLC/taktum)
 - [What is Taktum?](https://taktum.io/what-is-taktum)
 - [Taktum manufacturing marketplace](https://taktum.io/manufacturing-marketplace)
 - [Investor information for Taktum](https://taktum.io/investors)
