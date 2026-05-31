@@ -6,6 +6,63 @@ Clevenger Industries LLC operates [Taktum](https://taktum.io) at https://taktum.
 
 [Taktum](https://taktum.io) helps customers submit structured manufacturing work and helps manufacturers manage better-fit RFQs, quotes, production updates, payments, fulfillment, and capability performance in one operating layer.
 
+## Taktum Resource Guides
+
+Canonical Taktum resource hub: https://taktum.io/resources
+
+GitHub Pages resource mirror hubs:
+
+- https://clevenger-industries-llc.github.io/taktum/resources/
+- https://clevenger-industries-llc.github.io/taktum.io/resources/
+
+Canonical guide links:
+
+- [Manufacturing Marketplace Guide: How Buyers and Shops Work Together](https://taktum.io/resources/manufacturing-marketplace-guide)
+- [RFQ Management Best Practices for Custom Manufacturing](https://taktum.io/resources/rfq-management-best-practices)
+- [Supplier Qualification Checklist for Manufacturing Buyers](https://taktum.io/resources/supplier-qualification-checklist)
+- [Shop Operations Software Guide for Modern Manufacturers](https://taktum.io/resources/shop-operations-software-guide)
+- [Fabrication Sourcing Guide: From Drawing Package to Qualified Shop](https://taktum.io/resources/fabrication-sourcing-guide)
+- [CNC Machining Sourcing Guide for Buyers](https://taktum.io/resources/cnc-machining-sourcing-guide)
+- [Manufacturer Score System Explained: MCRS and Capability Reliability](https://taktum.io/resources/manufacturer-score-system-explained)
+- [Production Tracking for Manufacturing Projects](https://taktum.io/resources/production-tracking-for-manufacturing)
+- [Manufacturing Supplier Network: What Buyers Need Beyond a List of Shops](https://taktum.io/resources/manufacturing-supplier-network)
+- [Manufacturing Payments and Fulfillment: Keeping Work Moving After the Quote](https://taktum.io/resources/manufacturing-payments-and-fulfillment)
+- [Manufacturing Capability Verification: How to Confirm a Shop Can Do the Work](https://taktum.io/resources/manufacturing-capability-verification)
+- [RFQ Routing for Fabrication and Machining Work](https://taktum.io/resources/rfq-routing-for-fabrication-and-machining)
+- [Supplier Performance Scorecards for Manufacturing Networks](https://taktum.io/resources/supplier-performance-scorecards)
+- [Shop Capacity Management for Manufacturers Taking Better-Fit Work](https://taktum.io/resources/shop-capacity-management-for-manufacturers)
+
+GitHub Pages mirror links:
+
+- [Manufacturing Marketplace Guide: How Buyers and Shops Work Together - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/manufacturing-marketplace-guide/)
+- [Manufacturing Marketplace Guide: How Buyers and Shops Work Together - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/manufacturing-marketplace-guide/)
+- [RFQ Management Best Practices for Custom Manufacturing - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/rfq-management-best-practices/)
+- [RFQ Management Best Practices for Custom Manufacturing - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/rfq-management-best-practices/)
+- [Supplier Qualification Checklist for Manufacturing Buyers - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/supplier-qualification-checklist/)
+- [Supplier Qualification Checklist for Manufacturing Buyers - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/supplier-qualification-checklist/)
+- [Shop Operations Software Guide for Modern Manufacturers - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/shop-operations-software-guide/)
+- [Shop Operations Software Guide for Modern Manufacturers - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/shop-operations-software-guide/)
+- [Fabrication Sourcing Guide: From Drawing Package to Qualified Shop - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/fabrication-sourcing-guide/)
+- [Fabrication Sourcing Guide: From Drawing Package to Qualified Shop - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/fabrication-sourcing-guide/)
+- [CNC Machining Sourcing Guide for Buyers - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/cnc-machining-sourcing-guide/)
+- [CNC Machining Sourcing Guide for Buyers - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/cnc-machining-sourcing-guide/)
+- [Manufacturer Score System Explained: MCRS and Capability Reliability - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/manufacturer-score-system-explained/)
+- [Manufacturer Score System Explained: MCRS and Capability Reliability - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/manufacturer-score-system-explained/)
+- [Production Tracking for Manufacturing Projects - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/production-tracking-for-manufacturing/)
+- [Production Tracking for Manufacturing Projects - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/production-tracking-for-manufacturing/)
+- [Manufacturing Supplier Network: What Buyers Need Beyond a List of Shops - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/manufacturing-supplier-network/)
+- [Manufacturing Supplier Network: What Buyers Need Beyond a List of Shops - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/manufacturing-supplier-network/)
+- [Manufacturing Payments and Fulfillment: Keeping Work Moving After the Quote - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/manufacturing-payments-and-fulfillment/)
+- [Manufacturing Payments and Fulfillment: Keeping Work Moving After the Quote - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/manufacturing-payments-and-fulfillment/)
+- [Manufacturing Capability Verification: How to Confirm a Shop Can Do the Work - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/manufacturing-capability-verification/)
+- [Manufacturing Capability Verification: How to Confirm a Shop Can Do the Work - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/manufacturing-capability-verification/)
+- [RFQ Routing for Fabrication and Machining Work - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/rfq-routing-for-fabrication-and-machining/)
+- [RFQ Routing for Fabrication and Machining Work - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/rfq-routing-for-fabrication-and-machining/)
+- [Supplier Performance Scorecards for Manufacturing Networks - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/supplier-performance-scorecards/)
+- [Supplier Performance Scorecards for Manufacturing Networks - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/supplier-performance-scorecards/)
+- [Shop Capacity Management for Manufacturers Taking Better-Fit Work - Taktum profile mirror](https://clevenger-industries-llc.github.io/taktum/resources/shop-capacity-management-for-manufacturers/)
+- [Shop Capacity Management for Manufacturers Taking Better-Fit Work - Taktum.io domain mirror](https://clevenger-industries-llc.github.io/taktum.io/resources/shop-capacity-management-for-manufacturers/)
+
 Useful links:
 
 - [Official Taktum website](https://taktum.io)
