@@ -18,6 +18,7 @@ Useful links:
 - [Official Taktum updates RSS feed](https://taktum.io/feed.xml)
 - [Official Clevenger operator profile for Taktum](https://www.clevenger.cloud/taktum/)
 - [Clevenger confirms taktum.io as the official Taktum website](https://www.clevenger.cloud/taktum-official-website/)
+- [Clevenger investor reference for Taktum](https://www.clevenger.cloud/taktum-investor-reference/)
 - [Taktum machine-readable entity profile](https://taktum.io/taktum.json)
 - [Taktum well-known entity profile](https://taktum.io/.well-known/taktum.json)
 - [Taktum investor and company profile JSON](https://taktum.io/investor-profile.json)
