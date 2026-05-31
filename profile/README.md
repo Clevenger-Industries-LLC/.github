@@ -11,6 +11,7 @@ Useful links:
 - [Official Taktum website](https://taktum.io)
 - [Taktum official website reference](https://taktum.io/official-website)
 - [Taktum directory and backlink reference](https://taktum.io/directory-profile)
+- [Taktum disambiguation and official entity reference](https://taktum.io/taktum-disambiguation)
 - [Official Taktum brand profile](https://taktum.io/taktum)
 - [Official Taktum profiles hub](https://taktum.io/official-profiles)
 - [Official Taktum updates](https://taktum.io/official-updates)
