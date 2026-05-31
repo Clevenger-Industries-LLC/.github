@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://taktum.io/brand-profile-kit#brand-profile-kit",
+  "name": "Taktum Brand Profile Kit",
+  "alternateName": [
+    "Taktum brand profile kit",
+    "Taktum public brand profile kit",
+    "Taktum.io brand profile kit"
+  ],
+  "description": "Public brand profile kit for Taktum, the manufacturing marketplace and shop operations platform operated by Clevenger Industries LLC.",
+  "url": "https://taktum.io/brand-profile-kit",
+  "mainEntityOfPage": "https://taktum.io/brand-profile-kit",
+  "identifier": [
+    "https://taktum.io/brand-profile-kit",
+    "https://taktum.io/brand-profile-kit.json"
+  ],
+  "datePublished": "2026-05-31",
+  "dateModified": "2026-05-31",
+  "inLanguage": "en-US",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Clevenger Industries LLC",
+    "url": "https://www.clevenger.cloud/taktum/",
+    "sameAs": [
+      "https://github.com/Clevenger-Industries-LLC",
+      "https://taktum.io"
+    ]
+  },
+  "about": {
+    "@type": "SoftwareApplication",
+    "name": "Taktum",
+    "url": "https://taktum.io",
+    "applicationCategory": "BusinessApplication",
+    "description": "Taktum is a manufacturing marketplace and shop operations platform for structured RFQs, quoting, production updates, payments, fulfillment, and supplier performance."
+  },
+  "encoding": {
+    "@type": "MediaObject",
+    "@id": "https://taktum.io/brand-profile-kit.json#json",
+    "contentUrl": "https://taktum.io/brand-profile-kit.json",
+    "encodingFormat": "application/ld+json"
+  },
+  "sameAs": [
+    "https://taktum.io/brand-profile-kit",
+    "https://taktum.io/brand-profile-kit.json",
+    "https://clevenger-industries-llc.github.io/taktum/brand-profile-kit/",
+    "https://clevenger-industries-llc.github.io/taktum/brand-profile-kit.json",
+    "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/",
+    "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json"
+  ],
+  "subjectOf": [
+    {
+      "@type": "WebPage",
+      "name": "Taktum brand profile kit",
+      "url": "https://taktum.io/brand-profile-kit"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Taktum brand profile kit JSON",
+      "contentUrl": "https://taktum.io/brand-profile-kit.json",
+      "encodingFormat": "application/ld+json"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Taktum GitHub Pages brand profile kit",
+      "url": "https://clevenger-industries-llc.github.io/taktum/brand-profile-kit/"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Taktum GitHub Pages brand profile kit JSON",
+      "contentUrl": "https://clevenger-industries-llc.github.io/taktum/brand-profile-kit.json",
+      "encodingFormat": "application/ld+json"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Taktum.io GitHub Pages brand profile kit",
+      "url": "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Taktum.io GitHub Pages brand profile kit JSON",
+      "contentUrl": "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json",
+      "encodingFormat": "application/ld+json"
+    }
+  ]
+}

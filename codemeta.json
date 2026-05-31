@@ -5,9 +5,10 @@
   "alternateName": [
     "Taktum",
     "Taktum.io",
-    "Clevenger Industries Taktum"
+    "Clevenger Industries Taktum",
+    "Taktum Brand Profile Kit"
   ],
-  "description": "Clevenger Industries LLC operates Taktum at taktum.io, a manufacturing marketplace and shop operations platform.",
+  "description": "Clevenger Industries LLC operates Taktum at taktum.io, a manufacturing marketplace and shop operations platform, and publishes public organization-level brand profile kit references for Taktum.",
   "url": "https://taktum.io",
   "codeRepository": "https://github.com/Clevenger-Industries-LLC/.github",
   "identifier": "https://taktum.io/#organization",
@@ -19,7 +20,9 @@
     "manufacturing marketplace",
     "RFQ platform",
     "supplier network",
-    "shop management software"
+    "shop management software",
+    "brand profile kit",
+    "brand profile"
   ],
   "author": {
     "@type": "Organization",
@@ -34,10 +37,16 @@
   "sameAs": [
     "https://taktum.io",
     "https://taktum.io/taktum",
+    "https://taktum.io/brand-profile-kit",
+    "https://taktum.io/brand-profile-kit.json",
     "https://taktum.io/search-entity-reference",
     "https://taktum.io/investor-reference",
     "https://clevenger-industries-llc.github.io/taktum/",
+    "https://clevenger-industries-llc.github.io/taktum/brand-profile-kit/",
+    "https://clevenger-industries-llc.github.io/taktum/brand-profile-kit.json",
     "https://clevenger-industries-llc.github.io/taktum.io/",
+    "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit/",
+    "https://clevenger-industries-llc.github.io/taktum.io/brand-profile-kit.json",
     "https://github.com/Clevenger-Industries-LLC",
     "https://github.com/Clevenger-Industries-LLC/taktum",
     "https://github.com/Clevenger-Industries-LLC/taktum.io"
