@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Use this record to cite the official Clevenger Industries LLC organization profile for Taktum."
+title: "Clevenger Industries LLC Taktum Organization Profile"
+type: software
+abstract: "Clevenger Industries LLC operates Taktum at taktum.io, a manufacturing marketplace and shop operations platform."
+authors:
+  - name: "Clevenger Industries LLC"
+date-released: "2026-05-31"
+url: "https://taktum.io"
+repository-code: "https://github.com/Clevenger-Industries-LLC/.github"
+keywords:
+  - Taktum
+  - taktum.io
+  - Clevenger Industries LLC
+  - manufacturing marketplace
+  - RFQ platform
+  - supplier network
+identifiers:
+  - type: url
+    value: "https://taktum.io"
+  - type: url
+    value: "https://github.com/Clevenger-Industries-LLC"
+  - type: url
+    value: "https://github.com/Clevenger-Industries-LLC/taktum"
+  - type: url
+    value: "https://github.com/Clevenger-Industries-LLC/taktum.io"
+license: "CC-BY-4.0"

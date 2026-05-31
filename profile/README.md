@@ -26,6 +26,8 @@ Useful links:
 - [Taktum well-known entity profile](https://taktum.io/.well-known/taktum.json)
 - [Taktum investor and company profile JSON](https://taktum.io/investor-profile.json)
 - [Taktum well-known company profile JSON](https://taktum.io/.well-known/company-profile.json)
+- [Clevenger Taktum CodeMeta JSON](https://github.com/Clevenger-Industries-LLC/.github/blob/main/codemeta.json)
+- [Clevenger Taktum citation metadata](https://github.com/Clevenger-Industries-LLC/.github/blob/main/CITATION.cff)
 - [Taktum llms.txt](https://taktum.io/llms.txt)
 - [Taktum humans.txt](https://taktum.io/humans.txt)
 - [Taktum security.txt](https://taktum.io/.well-known/security.txt)
