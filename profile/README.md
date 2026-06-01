@@ -90,6 +90,8 @@ Useful links:
 - [Taktum llms.txt](https://taktum.io/llms.txt)
 - [Taktum humans.txt](https://taktum.io/humans.txt)
 - [Taktum security.txt](https://taktum.io/.well-known/security.txt)
+- [Taktum Product Hunt profile](https://www.producthunt.com/products/taktum?launch=taktum)
+- [Taktum Crunchbase profile](https://www.crunchbase.com/organization/taktum)
 - [Official Taktum public profile](https://github.com/Clevenger-Industries-LLC/taktum)
 - [Official Taktum.io domain profile](https://github.com/Clevenger-Industries-LLC/taktum.io)
 - [Official Taktum public profile release](https://github.com/Clevenger-Industries-LLC/taktum/releases/tag/official-taktum-profile-2026-05-31)
